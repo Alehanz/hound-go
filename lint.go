@@ -1,6 +1,6 @@
 package main
 
-import "github.com/golang/lint"
+import "golang.org/x/lint"
 
 // lintReviewer uses golint to review go code
 // and report violations.
